@@ -1,0 +1,47 @@
+.main{
+	
+	background-size: 100%;
+	padding-left: 50px;
+	background-color: bisque;
+}
+.add{
+	float: right;
+	margin-top: -210px;
+	margin-right: 400px;
+}
+dt{
+	font-size:20px;
+	line-height: 25px;
+	
+	
+}
+ dd{
+	font:bold;
+	color: blue;
+	font-size: 20px;
+	line-height: 35px;
+}
+.logo{
+	float: right;
+	margin-top: -240px;
+	margin-right: 880px;
+}
+.foot{
+	
+	margin-top: 100px;
+text-align: right;
+}
+.logo1{
+	margin-top: -225px;
+}
+.logo2{
+	
+	float: right;
+	margin-right: 680px;
+	margin-top: -224px;
+}
+.audi{
+	float: right;
+	margin-right: 820px;
+	margin-top: -40px;
+}
